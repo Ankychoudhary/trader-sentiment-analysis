@@ -16,9 +16,11 @@ We aim to uncover patterns that can inform smarter trading strategies.
 
 1. **Bitcoin Market Sentiment Dataset**
    - Columns: Date, Classification (Fear/Greed)
+   https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
 
 2. **Historical Trader Data (Hyperliquid)**
    - Includes: account, price, size, side, timestamp, PnL, etc.
+   https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
 
 ---
 
